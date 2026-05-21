@@ -40,6 +40,18 @@ The final deliverable is a **4-page interactive Power BI dashboard** surfacing i
 | 3 | Sector Dominance | Top 10 sectors bar chart · % of total spend labels |
 | 4 | Monthly Spend Trend | Line chart Jul 2023–Jun 2024 · VDOT excluded as outlier |
 
+### Page 1 — Executive Overview
+![Executive Overview](Project1.png)
+
+### Page 2 — Vendor & Contractor Breakdown
+![Vendor Breakdown](Project2.png)
+
+### Page 3 — Sector Dominance
+![Sector Dominance](Project3.png)
+
+### Page 4 — Monthly Spend Trend
+![Monthly Trend](Project%204.png)
+
 ---
 
 ## Dataset
@@ -215,7 +227,7 @@ Export dashboard screenshots to `/screenshots/` and push everything to GitHub.
 
 ## Author
 
-**Sebastian Uribe Diaz** — MIS Student, George Mason University  
+**Sebastian Uribe** — MIS Student, George Mason University  
 B.S. Business Administration, Concentration in MIS (Expected Dec 2026)  
 [LinkedIn](#) · [Portfolio](#)
 
