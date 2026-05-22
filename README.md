@@ -228,8 +228,8 @@ Export dashboard screenshots to `/screenshots/` and push everything to GitHub.
 ## Author
 
 **Sebastian Uribe** — MIS Student, George Mason University  
-B.S. Business Administration, Concentration in MIS (Expected Dec 2026)  
-[LinkedIn](#) · [Portfolio](#)
+B.S. Business Administration, Concentration in MIS 
+
 
 ---
 
