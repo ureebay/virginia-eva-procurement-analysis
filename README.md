@@ -148,10 +148,10 @@ ORDER BY order_month, monthly_spend DESC;
 
 ## How to Reproduce
 
-### Step 1 — Download the data
+### Step 1 — Downloaded the data
 Go to [data.virginia.gov/dataset/eva-procurement-data-2024](https://data.virginia.gov/dataset/eva-procurement-data-2024) and click Download next to `eVA_Procurement_Data_2024 (CSV)`.
 
-### Step 2 — Load into PostgreSQL
+### Step 2 — Loaded into PostgreSQL
 ```sql
 CREATE TABLE eva_procurement_2024 (
   entity_code                   TEXT,
@@ -207,11 +207,7 @@ CSV HEADER
 QUOTE '"';
 ```
 
-### Step 3 — Build the dashboard
-Open Power BI Desktop → Get Data → Text/CSV → import the 4 query result CSVs → build the 4-page dashboard.
 
-### Step 4 — Publish
-Export dashboard screenshots to `/screenshots/` and push everything to GitHub.
 
 ---
 
